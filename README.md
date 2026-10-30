@@ -1,6 +1,6 @@
 # tindra-speed-example
 
-Simplified example from the video "ESP32 + Claude voice assistant: where every second goes"
+Simplified example from the video "M5Stack + Claude voice assistant: where every second goes"
 (Vera tries something). Not Tindra's actual code: the real service streams audio, calls real
 APIs and handles errors. Here the services are stand-ins with fixed waiting times.
 
