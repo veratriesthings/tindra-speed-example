@@ -5,7 +5,7 @@ Simplified example from the video "ESP32 + Claude voice assistant: where every s
 APIs and handles errors. Here the services are stand-ins with fixed waiting times.
 
 Where the seconds go, from letting go of the button to the first sound (median of 86 questions
-from Tindra's service log, since 12 Oct 2026):
+from Tindra's service log, Sonnet):
 
 ```mermaid
 flowchart LR
